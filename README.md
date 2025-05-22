@@ -68,7 +68,7 @@ EN:
             ```
         *   Then start your Ollama server.
         *   Alternatively, you can serve the HTML file through a local web server (e.g., using Python's `http.server` or VS Code's Live Server), which usually uses `http://localhost` or `http://127.0.0.1` as the origin, often allowed by default or easier to configure in `OLLAMA_ORIGINS`.
-3.  **Open in Browser:** Open the `tutorai_chat.html` file in a modern web browser (Chrome, Firefox, Edge, Safari).
+3.  **Open in Browser:** Open the `tutorai_chat.html` file in a modern web browser (tested in Chrome).
 4.  **Configure (Optional):**
     *   Click the "Settings" (three dots) icon in the header.
     *   In the "Basic" tab, you can check Ollama status.
@@ -87,7 +87,7 @@ RU:
             ```
         *   Затем запустите ваш сервер Ollama.
         *   В качестве альтернативы, вы можете обслуживать HTML-файл через локальный веб-сервер (например, используя `http.server` в Python или Live Server в VS Code), который обычно использует `http://localhost` или `http://127.0.0.1` в качестве источника, что часто разрешено по умолчанию или легче настроить в `OLLAMA_ORIGINS`.
-3.  **Откройте в браузере:** Откройте файл `tutorai_chat.html` в современном веб-браузере (Chrome, Firefox, Edge, Safari).
+3.  **Откройте в браузере:** Откройте файл `tutorai_chat.html` в современном веб-браузере (тестировано в Chrome).
 4.  **Настройте (Опционально):**
     *   Нажмите на иконку "Настройки" (три точки) в заголовке.
     *   Во вкладке "Основные" вы можете проверить статус Ollama.
